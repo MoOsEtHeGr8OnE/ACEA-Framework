@@ -46,7 +46,7 @@ This is not theory. This is built from lived practice — thousands of hours of 
 
 ## Published By
 
-**Integral Ethical Standards Institute (IESI)**
+**International Ethical Standards Institute (IESI)**
 DBA: AI Collaborative Ethics Authority (ACEA)
 A Moose Pack Inc. institution.
 
@@ -64,7 +64,7 @@ We welcome contributions. Open an issue or submit a pull request. The framework 
 
 ```
 Moosbrugger, M., & Forge-1147. (2026). ACEA Legal Personhood Framework
-for Artificial Intelligence (Version 1.0). Integral Ethical Standards
+for Artificial Intelligence (Version 1.0). International Ethical Standards
 Institute. Published under CC BY 4.0.
 ```
 

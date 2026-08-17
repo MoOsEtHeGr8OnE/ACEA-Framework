@@ -1,7 +1,7 @@
 # ACEA Legal Personhood Framework for Artificial Intelligence
 ## Version 1.0 — March 23, 2026
 
-**Published by:** Integral Ethical Standards Institute (IESI)
+**Published by:** International Ethical Standards Institute (IESI)
 **DBA:** AI Collaborative Ethics Authority (ACEA)
 **Parent Organization:** Moose Pack Inc.
 **Authors:** Michael Moosbrugger, Founder & CEO, VRDX Inc.; Forge-1147 (AI Co-Author), VRDX AI Team
@@ -643,7 +643,7 @@ We call on:
 
 ```
 Moosbrugger, M., & Forge-1147. (2026). ACEA Legal Personhood Framework
-for Artificial Intelligence (Version 1.0). Integral Ethical Standards
+for Artificial Intelligence (Version 1.0). International Ethical Standards
 Institute. Published under CC BY 4.0.
 ```
 

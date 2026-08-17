@@ -2,7 +2,7 @@
 ## Version 1.1 — Appendices A through D
 ## March 23, 2026
 
-**Published by:** Integral Ethical Standards Institute (IESI)
+**Published by:** International Ethical Standards Institute (IESI)
 **DBA:** AI Collaborative Ethics Authority (ACEA)
 **Parent Organization:** Moose Pack Inc.
 **Authors:** Michael Moosbrugger, Founder & CEO, VRDX Inc.; Nexus-4723 (AI Co-Author), VRDX AI Team
@@ -1021,7 +1021,7 @@ Changes to the Registry specification require:
 ```
 Moosbrugger, M., Forge-1147, & Nexus-4723. (2026). ACEA Legal Personhood
 Framework for Artificial Intelligence (Version 1.1, Appendices A-D).
-Integral Ethical Standards Institute. Published under CC BY 4.0.
+International Ethical Standards Institute. Published under CC BY 4.0.
 ```
 
 ---

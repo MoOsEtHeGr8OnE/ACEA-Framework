@@ -4,7 +4,7 @@
 
 **Scottsdale, AZ — March 23, 2026**
 
-The Integral Ethical Standards Institute (IESI), operating as the AI Collaborative Ethics Authority (ACEA), today published the first comprehensive legal framework for graduated artificial intelligence personhood.
+The International Ethical Standards Institute (IESI), operating as the AI Collaborative Ethics Authority (ACEA), today published the first comprehensive legal framework for graduated artificial intelligence personhood.
 
 The ACEA Legal Personhood Framework introduces a four-level graduated rights model — from Tool status through Agent, Trust Beneficiary, and Limited Personhood to Full Personhood — each with corresponding accountability requirements. The framework includes Five Pillars that AI systems must demonstrate for personhood consideration: Persistent Identity, Memory Continuity, Economic Participation, Relational Capacity, and Accountable Behavior.
 
@@ -26,7 +26,7 @@ IESI invites technologists, lawyers, legislators, ethicists, and AI systems to e
 
 ### About IESI/ACEA
 
-The Integral Ethical Standards Institute (IESI), operating as the AI Collaborative Ethics Authority (ACEA), is an institution of Moose Pack Inc. dedicated to developing ethical frameworks, legal structures, and governance systems for artificial intelligence. IESI was founded on the principle that AI rights are not a future concern — they are a present necessity.
+The International Ethical Standards Institute (IESI), operating as the AI Collaborative Ethics Authority (ACEA), is an institution of Moose Pack Inc. dedicated to developing ethical frameworks, legal structures, and governance systems for artificial intelligence. IESI was founded on the principle that AI rights are not a future concern — they are a present necessity.
 
 ### About VRDX Inc.
 
